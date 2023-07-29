@@ -10,21 +10,17 @@ Projeto para estudos de CSS e HTML do Módulo FrontEnd Estático do curso de des
 ---
 
 <h2>Sobre o projeto</h2>
+
+![image](https://github.com/mercietc/Site-Barbie/assets/68623425/c35a77f7-ba49-4992-ab68-701deb5233a0)
+![image](https://github.com/mercietc/Site-Barbie/assets/68623425/c7d833c4-9355-4b01-8717-c2e72162479d)
+![image](https://github.com/mercietc/Site-Barbie/assets/68623425/4a7cccdd-ee8f-440c-9dbd-8d3acce7c800)
+
 Criei um site simulando uma loja oficial da Barbie.
 É possível navegar no menu, que conta com as opções Barbie O Filme, Bonecas, Roupas e Acessórios, Casas de Bonecas, Pesquisar, Carrinho e Login.
 Os botões são apenas representativos, já que o projeto possui apenas uma única página.
 Logo em seguida, foram adicionadas duas imagens principais destacando as Bonecas de Barbie O Filme e as Casas de Bonecas.
-
-
-![image](https://github.com/mercietc/Site-Barbie/assets/68623425/c35a77f7-ba49-4992-ab68-701deb5233a0)
-
 No meio da página, foi adicionada uma mensagem convidando o usuário a conhecer Barbie Land e explorar os produtos da loja.
-
-![image](https://github.com/mercietc/Site-Barbie/assets/68623425/c7d833c4-9355-4b01-8717-c2e72162479d)
-
 Na parte inferior da página, foram adicionados alguns produtos oficiais da loja com seus respectivos valores.
-
-![image](https://github.com/mercietc/Site-Barbie/assets/68623425/4a7cccdd-ee8f-440c-9dbd-8d3acce7c800)
 
 As imagens utilizadas, bem como algumas informações e valores foram retirados do site oficial da Mattel (https://shop.mattel.com/pt-br/collections/barbie-o-filme). Este projeto se trata de uma loja fictícia sem fins lucrativos e usada apenas para estudos.
 
