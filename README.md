@@ -11,9 +11,7 @@ Projeto para estudos de CSS e HTML do Módulo FrontEnd Estático do curso de des
 
 <h2>Sobre o projeto</h2>
 
-![image](https://github.com/mercietc/Site-Barbie/assets/68623425/c35a77f7-ba49-4992-ab68-701deb5233a0)
-![image](https://github.com/mercietc/Site-Barbie/assets/68623425/c7d833c4-9355-4b01-8717-c2e72162479d)
-![image](https://github.com/mercietc/Site-Barbie/assets/68623425/4a7cccdd-ee8f-440c-9dbd-8d3acce7c800)
+![image](https://github.com/mercietc/Site-Barbie/img/fullscreen.png)
 
 Criei um site simulando uma loja oficial da Barbie.
 É possível navegar no menu, que conta com as opções Barbie O Filme, Bonecas, Roupas e Acessórios, Casas de Bonecas, Pesquisar, Carrinho e Login.
@@ -27,4 +25,3 @@ As imagens utilizadas, bem como algumas informações e valores foram retirados 
 <h2>Design</h2>
 
 ![image](https://github.com/mercietc/Site-Barbie/assets/68623425/fe7ebc40-cc9b-4045-a544-41e69ee66f28)
-
